@@ -12,7 +12,9 @@ Use a created Processing android app to monitor soil moisture readings over a bl
 **Requirements:**
 - A computer that can run Processing3
 - A compatible Android device to side-load the app
-- Arduino Uno (or any other Arduino board that uses bluetooth)
+- Arduino board 
+- Bluetooth module (or any other Arduino board that uses bluetooth)
+  - I used an HC-05
 
 **Bugs/Needs Improvement:**
 - App *could* look better
